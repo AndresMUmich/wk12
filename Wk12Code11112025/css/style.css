@@ -173,8 +173,8 @@ button:hover {
 
 
 
-body .lb-caption {
-  font-size: 32px;
+body #lightbox .lb-caption {
+  font-size: 50px;
   line-height: 1.4;
   color: #ffffff;
   background-color: rgba(0,0,0,0.7);
