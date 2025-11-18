@@ -216,3 +216,13 @@ body .lb-image {
 body .lb-outerContainer {
   margin-top: 10px;
 }
+
+body .lb-nav a.lb-prev,
+body .lb-nav a.lb-next {
+  width: 40px;
+  height: 40px;
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 1;
+}
